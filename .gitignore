@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.bak
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.cyclo
+*.su
+*.d
+.pytest_cache/
+SmartParking_F103/Debug/
+SmartParking_F103/build/
